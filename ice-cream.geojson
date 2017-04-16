@@ -1,0 +1,583 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Dubai",
+        "Country": "The United Arab Emirates",
+        "Rank": 1,
+        "Cost of a cone in local currency": "25 dirhams",
+        "Cost of a cone in dollars": "$6.81"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2707828,
+          25.2048493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Auckland",
+        "Country": "New Zealand",
+        "Rank": 2,
+        "Cost of a cone in local currency": "NZD7",
+        "Cost of a cone in dollars": "$5.90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7633315,
+          -36.8484597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Paris",
+        "Country": "France",
+        "Rank": 3,
+        "Cost of a cone in local currency": "4 euros",
+        "Cost of a cone in dollars": "$5.40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Stockholm",
+        "Country": "Sweden",
+        "Rank": 4,
+        "Cost of a cone in local currency": "30 krona",
+        "Cost of a cone in dollars": "$4.74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0685808,
+          59.3293235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Sydney",
+        "Country": "Australia",
+        "Rank": 5,
+        "Cost of a cone in local currency": "AUD4",
+        "Cost of a cone in dollars": "$4.18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092955,
+          -33.8688197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Madrid",
+        "Country": "Spain",
+        "Rank": 6,
+        "Cost of a cone in local currency": "3 euros",
+        "Cost of a cone in dollars": "$4.06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7037902,
+          40.4167754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Montreal",
+        "Country": "Canada",
+        "Rank": 7,
+        "Cost of a cone in local currency": "CAD4",
+        "Cost of a cone in dollars": "$4.00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567256,
+          45.5016889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Rome",
+        "Country": "Italy",
+        "Rank": 7,
+        "Cost of a cone in local currency": "3 euros",
+        "Cost of a cone in dollars": "$4.00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4963655,
+          41.9027835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Gold Coast",
+        "Country": "Australia",
+        "Rank": 9,
+        "Cost of a cone in local currency": "AUD3.8",
+        "Cost of a cone in dollars": "$3.97"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4,
+          -28.016667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Rio de Janeiro",
+        "Country": "Brazil",
+        "Rank": 10,
+        "Cost of a cone in local currency": "7 real",
+        "Cost of a cone in dollars": "$3.51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1728965,
+          -22.9068467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Tokyo",
+        "Country": "Japan",
+        "Rank": 11,
+        "Cost of a cone in local currency": "300 yen",
+        "Cost of a cone in dollars": "$3.25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917064,
+          35.6894875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Beijing",
+        "Country": "China",
+        "Rank": 12,
+        "Cost of a cone in local currency": "18 yuan",
+        "Cost of a cone in dollars": "$2.89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.407395,
+          39.904211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Athens",
+        "Country": "Greece",
+        "Rank": 13,
+        "Cost of a cone in local currency": "2 euro",
+        "Cost of a cone in dollars": "$2.70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275388,
+          37.9838096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Lisbon",
+        "Country": "Portugal",
+        "Rank": 14,
+        "Cost of a cone in local currency": "2 euro",
+        "Cost of a cone in dollars": "$2.68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1393366,
+          38.7222524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "London",
+        "Country": "The United Kingdom",
+        "Rank": 15,
+        "Cost of a cone in local currency": "1.5 pound",
+        "Cost of a cone in dollars": "$2.36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Tel Aviv",
+        "Country": "Israel",
+        "Rank": 16,
+        "Cost of a cone in local currency": "7.50 new sheqel",
+        "Cost of a cone in dollars": "$2.03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7817676,
+          32.0852999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "New York City",
+        "Country": "The United States",
+        "Rank": 17,
+        "Cost of a cone in local currency": 2,
+        "Cost of a cone in dollars": "$2.00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Lima",
+        "Country": "Peru",
+        "Rank": 18,
+        "Cost of a cone in local currency": "5 nuevo sol",
+        "Cost of a cone in dollars": "$1.94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042754,
+          -12.0463731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Los Angeles",
+        "Country": "The United States",
+        "Rank": 19,
+        "Cost of a cone in local currency": 1.75,
+        "Cost of a cone in dollars": "$1.75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Istanbul",
+        "Country": "Turkey",
+        "Rank": 20,
+        "Cost of a cone in local currency": "3 lira",
+        "Cost of a cone in dollars": "$1.71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9783589,
+          41.0082376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Istanbul",
+        "Country": "Turkey",
+        "Rank": 20,
+        "Cost of a cone in local currency": "3 lyra",
+        "Cost of a cone in dollars": "$1.71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9783589,
+          41.0082376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Prague",
+        "Country": "The Czech Republic",
+        "Rank": 22,
+        "Cost of a cone in local currency": "30 krauna",
+        "Cost of a cone in dollars": "$1.58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378005,
+          50.0755381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Mexico City",
+        "Country": "Mexico",
+        "Rank": 23,
+        "Cost of a cone in local currency": "19 peso",
+        "Cost of a cone in dollars": "$1.49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.133208,
+          19.4326077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bali",
+        "Country": "Indonesia",
+        "Rank": 24,
+        "Cost of a cone in local currency": 12192,
+        "Cost of a cone in dollars": "$1.26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0919509,
+          -8.3405389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Cairo",
+        "Country": "Egypt",
+        "Rank": 25,
+        "Cost of a cone in local currency": "8 pound",
+        "Cost of a cone in dollars": "$1.19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2357116,
+          30.0444196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "South Africa",
+        "Country": "Cape Town",
+        "Rank": 26,
+        "Cost of a cone in local currency": "10 rand",
+        "Cost of a cone in dollars": "$1.12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.937506,
+          -30.559482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bangkok",
+        "Country": "Thailand",
+        "Rank": 27,
+        "Cost of a cone in local currency": "29 baht",
+        "Cost of a cone in dollars": "$0.98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5017651,
+          13.7563309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kuala Lumpur",
+        "Country": "Malaysia",
+        "Rank": 28,
+        "Cost of a cone in local currency": "3 ringgit",
+        "Cost of a cone in dollars": "$0.97"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.686855,
+          3.139003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Moscow",
+        "Country": "Russia",
+        "Rank": 29,
+        "Cost of a cone in local currency": "27 ruble",
+        "Cost of a cone in dollars": "$0.90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.755826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Reykavik",
+        "Country": "Iceland",
+        "Rank": 30,
+        "Cost of a cone in local currency": "130 krona",
+        "Cost of a cone in dollars": "$0.87"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8174393,
+          64.1265206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Buenos Aires",
+        "Country": "Argentina",
+        "Rank": 31,
+        "Cost of a cone in local currency": "9.9 peso",
+        "Cost of a cone in dollars": "$0.78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Budapest",
+        "Country": "Hungary",
+        "Rank": 32,
+        "Cost of a cone in local currency": "150 forint",
+        "Cost of a cone in dollars": "$0.69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.040235,
+          47.497912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Casablanca",
+        "Country": "Morocco",
+        "Rank": 33,
+        "Cost of a cone in local currency": "5.56 dirham",
+        "Cost of a cone in dollars": "$0.67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898434,
+          33.5731104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Nairobi",
+        "Country": "Kenya",
+        "Rank": 34,
+        "Cost of a cone in local currency": "43.70 shilling",
+        "Cost of a cone in dollars": "$0.50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8219462,
+          -1.2920659
+        ]
+      }
+    }
+  ]
+}
